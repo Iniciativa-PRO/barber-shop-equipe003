@@ -1,5 +1,5 @@
 .hero{
-    background-image: url(/assets/src/img/banner.png);
+    background-image: url('/assets/src/img/banner.png');
     width: 100%;
     height: 100vw;
     background-repeat: no-repeat ;
@@ -58,8 +58,5 @@
     font-size: 20px;
     line-height: 23px;
     text-align: center;
-
-    /* brown */
-
     color: #523D2A;
 }
