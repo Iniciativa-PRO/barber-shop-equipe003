@@ -1,0 +1,69 @@
+.about{
+    background-color: #E5E5E5;
+    position: absolute;
+    position: absolute;
+    width: 978px;
+    height: 347px;
+    left: 231px;
+    top: 808px;
+
+}
+
+.sobre_a_barbearia{
+    position: relative;
+    left: 0%;
+    right: 0%;
+    top: 26.87px;
+    bottom: 0%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 28px;
+    color: #523D2A;
+}
+
+.titulo_da_secao{
+    position: relative;
+    left: 0%;
+    right: 0%;
+    top: 50.57px;
+    bottom: 0%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #ECB074;
+}
+
+.descricao_about{
+    position: relative;
+    width: 372px;
+    height: 144px;
+    left: 0px;
+    top: 76px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: flex-end;
+    color: #523D2A;
+}
+
+.imagem_about{
+    position: absolute;
+    width: 334px;
+    height: 335px;
+    left: 575px;
+    top: 0px;
+
+    background: url('/assets/src/img/Black\ and\ White\ Simple\ Minimalist\ Elegant\ Barbershop\ Promotion\ Instagram\ Story\ 1.png');
+    /* preto-1 */
+
+    border: 2px solid #000000;
+}

@@ -1,0 +1,50 @@
+.header-content{
+    display: flex;
+    position: absolute;
+}
+.logo-iniciativa-pro{
+    padding-top: 18px;
+    padding-left: 125.7px;
+}
+
+.other-content{
+    padding-top: 38px;
+    display: flex;
+    padding-left: 374px;
+}
+.contatos{
+    display: flex;
+    color: white;
+    font-family: 'Roboto',  sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+}
+
+.endereco{
+    margin-right: 69px;
+
+}
+
+.contatos img{
+    height: 29.04px;
+}
+
+.endereco{
+    display: flex;
+}
+
+.whatsapp{
+    display: flex;
+}
+
+.endereco .logo-local,  .whatsapp .logo-whatsapp{
+    margin-right: 15.19px;
+}
+
+.menu{
+    padding-left: 69px;
+
+}
